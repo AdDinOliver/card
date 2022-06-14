@@ -564,7 +564,7 @@ main{
 
 .nome-prodcard:hover ~ .link-pedir{
 
-  margin-top: -14vw;
+  margin-top: 1vw;
 
   z-index: -1;
 
