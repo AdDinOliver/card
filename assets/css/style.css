@@ -6,6 +6,9 @@ body{
   font-family: 'roboto';
   background: #444;
 }
+.img-logonone{
+  display: none;
+}
 .cabecalho{
   background: darkorange;
   width: 100vw;
